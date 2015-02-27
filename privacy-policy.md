@@ -101,4 +101,4 @@ To ask a question or comment about this Privacy Policy or our privacy practices,
 contact@sameroom.io
 
 ### CHANGES TO THIS PRIVACY POLICY
-We may change this Privacy Policy from time to time for any reason. If we make any changes, we will change the Last Updated date above and post the new Privacy Policy here: https://github.com/sameroom/legal. You should consult this Privacy Policy regularly for any changes.
+We may change this Privacy Policy from time to time for any reason. If we make any changes, we will change the Last Updated date above and post the new Privacy Policy here: https://github.com/sameroom/legal/blob/master/privacy-policy.md. You should consult this Privacy Policy regularly for any changes.
