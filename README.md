@@ -1,7 +1,7 @@
 # Sameroom Legal
 
-## [Privacy Policy](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
-## [Terms of Use](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
+### [Privacy Policy](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
+### [Terms of Use](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
 
 Please file issues against these documents, if you have any concerns.
 
