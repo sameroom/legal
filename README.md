@@ -5,7 +5,9 @@
 
 Please file issues against these documents, if you have any concerns.
 
-## What is Sameroom?
+***
+
+# Wait, what is Sameroom?
 ## Sameroom does astonishing things to chatrooms!
 
 ![clip](https://sameroom.io/img/robot-portal-2x.png)
