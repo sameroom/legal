@@ -1,4 +1,5 @@
-## SAMEROOM–TERMS OF USE
+# SAMEROOM
+##TERMS OF USE
 ### Last Updated: February 27, 2015
 
 These Terms of Use (the “**Terms**”) govern your use of the website located at sameroom.io (the “**Site**”) and the Services (as defined below) operated by LeChat, Inc. (“**Sameroom**,” “**us**,” and “**we**”).
