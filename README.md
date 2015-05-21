@@ -10,6 +10,8 @@ Please file issues against these documents, if you have any concerns.
 # Wait, what is Sameroom?
 ## Sameroom does astonishing things to chatrooms!
 
+<iframe src="https://player.vimeo.com/video/127775997" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/127775997">Sameroom&mdash;Keeping It Real-Time</a> from <a href="https://vimeo.com/user23488927">Sameroom.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ![clip](https://sameroom.io/img/robot-portal-2x.png)
 
 ### Let others travel to your chatroom with a Portal
