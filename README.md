@@ -3,6 +3,7 @@
 ### [Privacy Policy](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
 ### [Terms of Use](https://github.com/sameroom/legal/blob/master/privacy-policy.md)
 ### [Terms of Use Supplement — GDPR](https://github.com/sameroom/legal/blob/master/tos-supplement-gdpr.md)
+### [Third-party subprocessors — GDPR](https://github.com/sameroom/legal/blob/master/third-party-subprocessors.md)
 
 Please file issues against these documents, if you have any concerns.
 
